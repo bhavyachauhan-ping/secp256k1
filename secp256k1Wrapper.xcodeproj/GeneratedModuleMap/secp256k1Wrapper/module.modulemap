@@ -1,0 +1,4 @@
+module secp256k1Wrapper {
+    umbrella "/Users/bhavyachauhan/Documents/Ping_iOS/secp_experiments/secp256k1/include"
+    export *
+}
